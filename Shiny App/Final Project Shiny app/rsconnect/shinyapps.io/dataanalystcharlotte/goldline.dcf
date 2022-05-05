@@ -1,0 +1,13 @@
+name: goldline
+title: goldline
+username:
+account: dataanalystcharlotte
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5921538
+bundleId: 5719617
+url: https://dataanalystcharlotte.shinyapps.io/goldline/
+when: 1648071564.11983
+lastSyncTime: 1648071564.11984
+asMultiple: FALSE
+asStatic: FALSE
